@@ -1,6 +1,6 @@
 # socks-bot-go Releases
 
-本仓库**仅发布 SOCKS5 管理后台 / Bot 的 Linux 二进制**，用于后台「版本管理」检查更新与下载。
+本仓库**仅发布 Linux 二进制**，用于后台「版本管理」检查更新与下载。
 
 - 源码不公开
 - 下载：Releases 中的 `socksbot-linux-amd64`
